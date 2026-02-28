@@ -51,7 +51,7 @@ export function Hero() {
         className="absolute top-6 left-1/2 -translate-x-1/2 z-20"
       >
         <a
-          href="https://olucasandrade.com/blog"
+          href="https://www.olucasandrade.com/about/lucas-andrade"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2.5 px-4 py-2 rounded-full border border-dark-border/60 bg-dark-surface/80 backdrop-blur-sm hover:border-electric/40 transition-all duration-300 group"
